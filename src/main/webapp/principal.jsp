@@ -20,7 +20,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a id = "Home" class="nav-link active" aria-current="page" href="#">Home</a>
+                <a id = "Home" class="nav-link active" aria-current="page" href="#">Iniciar Sesion</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="new_usuarios.jsp">Crear Usuario</a>
